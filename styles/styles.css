@@ -14,7 +14,7 @@ body {
 /* main_content */
 .main_content {
   background-color: #f3f0eb;
-  box-shadow: 6px 6px 20px rgba (0, 0, 0, 0.1);
+  box-shadow: 6px 6px 20px black;
   padding: 105px 90px;
 }
 
